@@ -1,0 +1,3 @@
+[submodule "IDA-Scripts"]
+	path = IDA-Scripts
+	url = https://github.com/Scags/IDA-Scripts.git
